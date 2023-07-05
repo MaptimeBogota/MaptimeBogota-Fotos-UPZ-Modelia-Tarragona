@@ -2,7 +2,7 @@
 
 Estas son las fotos capturadas el día: 
 
-* A nivel de calle: 2023-06-30 pero están publicadas en Mapillary [Mapillary](https://www.mapillary.com/app/?pKey=2282274358641205)
+* A nivel de calle: 2023-06-30 pero están publicadas en [Mapillary](https://www.mapillary.com/app/?pKey=2282274358641205).
 
 Hay diferente tipos de fotos:
 
